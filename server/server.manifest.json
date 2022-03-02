@@ -1,0 +1,33 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/apercu-moi.js": "components/apercu-moi.js",
+    "components/aprecu-articles.js": "components/aprecu-articles.js",
+    "components/card-article.js": "components/card-article.js",
+    "components/contact-end.js": "components/contact-end.js",
+    "components/dernier-article.js": "components/dernier-article.js",
+    "components/mon-histoire.js": "components/mon-histoire.js",
+    "components/separateur.js": "components/separateur.js",
+    "pages/apropos.js": "pages/apropos.js",
+    "pages/blog/_id.js": "pages/blog/_id.js",
+    "pages/blog/index.js": "pages/blog/index.js",
+    "pages/contact.js": "pages/contact.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/apercu-moi.js": "components/apercu-moi.js.map",
+    "components/aprecu-articles.js": "components/aprecu-articles.js.map",
+    "components/card-article.js": "components/card-article.js.map",
+    "components/contact-end.js": "components/contact-end.js.map",
+    "components/dernier-article.js": "components/dernier-article.js.map",
+    "components/mon-histoire.js": "components/mon-histoire.js.map",
+    "components/separateur.js": "components/separateur.js.map",
+    "pages/apropos.js": "pages/apropos.js.map",
+    "pages/blog/_id.js": "pages/blog/_id.js.map",
+    "pages/blog/index.js": "pages/blog/index.js.map",
+    "pages/contact.js": "pages/contact.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
